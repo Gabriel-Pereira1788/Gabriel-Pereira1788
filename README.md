@@ -43,7 +43,7 @@ I'm **Gabriel**, a passionate **Mobile Developer** specializing in React Native,
 ### 🐍 Contribution Graph
 
 <div align="center">
-  ![snake animation](https://github.com/Gabriel-Pereira1788/Gabriel-Pereira1788/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animate](https://github.com/Gabriel-Pereira1788/Gabriel-Pereira1788/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 ---
