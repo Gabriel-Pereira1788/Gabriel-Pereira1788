@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Gabriel**, a passionate **Mobile Developer** specializing in React Native, Swift, and Kotlin. I love building high-performance apps and optimizing the user experience with clean, scalable code.
+I'm **Gabriel**, a passionate **Mobile Developer**. I love building high-performance apps and optimizing the user experience with clean, scalable code.
 
 ---
 
