@@ -1,43 +1,55 @@
-### Hi there! 👋
+<div align="center">
 
-I'm **Gabriel**, a passionate **Mobile Developer**. I love building high-performance apps and optimizing the user experience with clean, scalable code.
+# Gabriel Andrade
 
----
+### Mobile Developer • React Native • TypeScript
 
-### 🚀 Tech Stack
+Building high-performance mobile applications with a focus on performance, scalability and user experience.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andrade1788/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.andrade1788@gmail.com)
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
+
+<p align="center">
+
+![Top Languages](https://ghstats.dev/api/langs?username=Gabriel-Pereira1788&theme=dracula&hide_border=true&hide_title=true&border_radius=16.5)
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+![GitHub Stats](https://ghstats.dev/api/card?username=Gabriel-Pereira1788&theme=dracula&hide_border=true&hide_title=true&border_radius=16.5)
+
+</p>
+
+---
+
+## 💻 What I work with
+
+- 📱 React Native
+- ⚛️ React
+- 📘 TypeScript
+- ☕ Kotlin
+- 🍎 Swift
+- 🔥 Firebase
+- ⚡ Expo
+- 🐻 Zustand
+- 🔄 TanStack Query
+- 📦 Native Modules
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-pereira1788&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-pereira1788&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="Top Languages" />
+
+> *Always learning, building and sharing.*
+
 </div>
-
----
-
-### 🌎 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-andrade1788/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabriel.andrade1788@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-</div>
-
----
-
-✨ _Always learning, building, and sharing!_ 🚀
